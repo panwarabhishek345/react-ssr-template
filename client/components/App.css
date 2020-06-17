@@ -1,0 +1,13 @@
+.App {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:20px
+}
+
+.App img{
+    height: 100px;
+}
